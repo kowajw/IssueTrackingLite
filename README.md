@@ -10,3 +10,7 @@ The link for this tutorial can be found here:  [https://docs.oracle.com/javafx/s
 Second entry for Project1 selected from TableView:
 
 ![Image](ITL1.png)
+
+Enter and save new issue in Project1:
+
+![Image](ITL2.png)
