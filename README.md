@@ -14,3 +14,7 @@ Second entry for Project1 selected from TableView:
 Enter and save new issue in Project1:
 
 ![Image](ITL2.png)
+
+Delete previously created issue:
+
+![Image](ITL3.png)
