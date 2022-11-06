@@ -7,5 +7,6 @@ The link for this tutorial can be found here:  [https://docs.oracle.com/javafx/s
 
 ## Screenshots
 
-Second entry for Project1 selected from TableView
-![Image](FXMLNoSB_1.png)
+Second entry for Project1 selected from TableView:
+
+![Image](ITL1.png)
